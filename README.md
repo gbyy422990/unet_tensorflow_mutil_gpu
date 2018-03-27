@@ -6,9 +6,9 @@ Original Paper
 - [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
 
 # usage
->>>Run python csv_generator.py for get ur training list
->>>Run python train_multi_gpu1.py for training with multi gpus
->>>Run python train.py for training with a single gpu
+1、Run python csv_generator.py for get ur training list<br>
+2、Run python train_multi_gpu1.py for training with multi gpus<br>
+3、Run python train.py for training with a single gpu<br>
 
 # Update
 comming
